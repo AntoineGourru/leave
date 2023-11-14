@@ -1,0 +1,5 @@
+Link to download data 
+https://drive.google.com/file/d/1zLAozj3_ewQPbGDes48B-uYtKddlrZGT/view?usp=sharing
+
+
+**Files should be put in a folder name "pokec" in the data folder.**
